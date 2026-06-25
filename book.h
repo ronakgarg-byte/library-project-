@@ -1,0 +1,1 @@
+class book{int id; string title; string author; bool isAvailable } ;

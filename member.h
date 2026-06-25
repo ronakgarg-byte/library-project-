@@ -1,0 +1,1 @@
+class member{int id; string name; vector borrowedBooks; };
