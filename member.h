@@ -2,17 +2,15 @@
 #include<vector>
 #include<string>
 using namespace std;
-#include<book.h>
+#include"book.h"
 class member{
+    public:
     int id; 
     string name; 
     vector<book>books;
+  
  };
 
-int main(){
-    
-return 0;
-}
 
 
 

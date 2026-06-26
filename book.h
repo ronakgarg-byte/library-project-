@@ -5,6 +5,7 @@ using namespace std;
 
 
 class book{
+    public:
     int id; 
     
 string title; 
